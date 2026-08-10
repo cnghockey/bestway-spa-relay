@@ -1,0 +1,31 @@
+{
+  "name": "bestway-spa-relay",
+  "version": "1.0.0",
+  "description": "Control a Bestway SmartSpa / Lay-Z-Spa (AIRJET V02) via a token-gated HTTP API — Home Assistant, Homebridge, voice assistants, or any smart-home platform. Node port of the SmartHub protocol (credit: epheterson/bestway-spa-v2) + optional native cloud bridge. Zero-dependency.",
+  "license": "MIT",
+  "type": "commonjs",
+  "main": "src/server.js",
+  "scripts": {
+    "setup": "node src/setup.js",
+    "start": "node src/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "bestway",
+    "lay-z-spa",
+    "smartspa",
+    "airjet",
+    "hot-tub",
+    "home-assistant",
+    "homebridge",
+    "smart-home",
+    "google-home",
+    "reverse-engineering"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnghockey/bestway-spa-relay.git"
+  }
+}

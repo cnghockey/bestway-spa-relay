@@ -1,0 +1,5 @@
+.env
+gh-tokens.json
+.spa_config.json
+node_modules/
+*.log
