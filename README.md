@@ -67,6 +67,13 @@ Put the relay behind HTTPS, register a cloud-to-cloud integration (Authorization
 - `.env`, `.spa_config.json`, `gh-tokens.json` hold secrets/identifiers — `chmod 600`, never commit (gitignored).
 - Gate `/cmd/*` with a long random `RELAY_SECRET`.
 
+## More from us
+
+- [Wandless VR Video Player](https://github.com/cnghockey/wandless-vr-video-player): watch VR180 and flat video on a Meta Quest with your hands alone. [Try it in the headset browser](https://cnghockey.github.io/wandless-vr-video-player/).
+- [VLC for Android subtitle URL fix](https://github.com/cnghockey/vlc-android-subtitle-url-fix): VLC for Android shows the subtitles that Jellyfin for Android TV sends it.
+- [EvoStart Car Relay](https://github.com/cnghockey/evo-start-relay): start, stop, lock and unlock an EvoStart / Fortin EVO-START LTE remote starter from Home Assistant or Homebridge.
+- [Sats4AI](https://sats4ai.com): AI tools that people and AI agents pay per call with Bitcoin over Lightning. No signup.
+
 ## Support / donate
 Yes, we reverse-engineered a hot-tub cloud so a robot could warm the water on command. We're at peace with it.
 
